@@ -1,3 +1,3 @@
 L=int(input())
-p=(L/100)
+p=L/100
 print(p)
