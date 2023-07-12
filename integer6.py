@@ -1,5 +1,4 @@
 a=int(input())
-b=int(input())
 Q=34//a
-P=34%b
+P=34%a
 print(Q,P)
