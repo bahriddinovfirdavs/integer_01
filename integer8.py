@@ -1,3 +1,3 @@
 a=int(input())
-L=797//a
-print(L)
+Q=32%10
+print(Q)
