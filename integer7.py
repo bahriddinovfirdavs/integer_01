@@ -1,6 +1,6 @@
 a=int(input())
-O=(34//a)
-L=(34%a)
-Q=O+L
-P=O*L
-print(Q,P)    
+P=a//10
+L=a%10
+Q=P+L
+O=P*L
+print(Q,O)
