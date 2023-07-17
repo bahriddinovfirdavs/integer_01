@@ -1,3 +1,3 @@
 a=int(input())
-L=797//a
-print(L)
+P=a//100
+print(P)
