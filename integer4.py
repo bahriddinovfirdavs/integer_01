@@ -1,4 +1,4 @@
 a=int(input())
 b=int(input())
-Q=b//a
+Q=a//b
 prinr(Q)
