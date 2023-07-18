@@ -1,3 +1,5 @@
 a=int(input())
-Q=32%10
-print(Q)
+P=a//10
+Q=a%10
+A=(Q*10)+P
+print(A)
